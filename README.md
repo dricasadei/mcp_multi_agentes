@@ -1,7 +1,4 @@
-## Usando o streamlit
-
-- python3 -m streamlit run streamlit_agents/chat_multi_agent.py 
-
+# Aplicação Multi Agentes para uma concessionária de veículos
 
 ## Para rodar a aplicação:
 
@@ -20,3 +17,8 @@
 ### Instalação das bibliotecas
 
 - pip install -r requirements.txt
+
+## Executando a aplicação
+
+- python3 -m streamlit run streamlit_agents/chat_multi_agent.py 
+
